@@ -17,7 +17,7 @@ The number of repositories and packages will continue to grow weekly.
 1. Install pkgs.cloud release repository package  
 
   ```bash
-  yum install https://get.pkgs.cloud/release/pkgs.cloud-release-1.0.rpm -y
+  yum install https://get.pkgs.cloud/release.rpm -y
   ```
 
 2. View available repository packages  
